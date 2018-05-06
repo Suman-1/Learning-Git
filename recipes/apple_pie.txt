@@ -5,4 +5,35 @@ this contains the indregints that are needed in the project
 the indregints can be anything that can be in the following
 manners
 
+=======
+Git branch 
+
+The branch that is markd with the current * branch
+
+Command to view the current branch 
+
+#git branch
+
+How does git knows that it is currently the master??
+====>>> Go to the dir 
+	or 
+	
+	Simply type #cat .git/HEAD
+
+HEAD is just the referance to the branch 
+
+
+Switiching branches 
+
+#git checkout<branch-name>
+
+Now the git chanegs the head pointing towards the git 
+
+------Run command -----
+
+#cat .git/HEAD
+
+
+Checkout means move HEAD and update the working area
+>>>>>>> nirmal
 
