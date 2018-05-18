@@ -2,5 +2,7 @@ Apple pie
 Cheesecake
 This is cool workshop
 checking that how the rebase works
+Performing the rebasing task how it is going to perform
+This is the rebasing that how it is going to perform 
 
 
