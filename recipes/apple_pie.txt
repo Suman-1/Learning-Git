@@ -35,6 +35,9 @@ Now the git chanegs the head pointing towards the git
 
 
 Checkout means move HEAD and update the working area
+Merging and without merging
+
+Bracnhing in the HEAD directory 
 >>>>>>> nirmal
 Going to check that how the rebasing works 
 The rebasing format
